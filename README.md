@@ -1,4 +1,4 @@
-Tässä on loppu työn source koodi. Se itse asiassa sisältää kaksi osaa. Toinen niistä on nettisivusto osoite on 
+Tässä on lopputyön source koodi. Se itse asiassa sisältää kaksi osaa. Toinen niistä on nettisivusto osoite on 
 https://waluigi-comments.website. Sivusto on ihan julkinen (hostina toimii namecheap). Kuten nimi kertoo kyseessä on kommenttisivusto. 
 Sinne pitää rekisteröityä (sisältää sähköpostin vahvennuksen) ja kirjautua sisään, ennen kuin voi kommentoida. Toinen taas on 
 JavaFX-sovellus, joka sisältää toiminnallisuuden kyseisen nettisivuston käyttöön. Sen tein lähinnä vain sitä varten, että saan lopputyöhön
