@@ -1,1 +1,1 @@
-A comment website, and JavaFX web browser for viewing the website.
+A comment website, and a JavaFX web browser for viewing the website.
